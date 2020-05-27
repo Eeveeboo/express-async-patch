@@ -1,0 +1,13 @@
+{
+    "name":"express-async-patch",
+    "version":"1.0.0",
+    "main": "dist/index.js",
+    "author": "Evelyne Go",
+    "license": "MIT",
+    "peerDependencies": {
+        "express":"^4.16.2"
+    },
+    "devDependencies": {
+        "typescript":"^3.9.3"
+    }
+}

@@ -4,6 +4,13 @@ Express doesn't handle async errors by default unfortunately, here's a quick and
 
 MIT Licensed - Have fun and use however you like!
 
+## Installation
+```sh
+npm i -S https://gitlab.com/Eeveeboo/express-async-patch.git
+# or
+yarn add https://gitlab.com/Eeveeboo/express-async-patch.git
+```
+
 ## Usage
 
 ```ts
